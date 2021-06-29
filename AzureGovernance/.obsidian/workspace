@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "0029b355099af3ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "af96cf191340f4f5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "RBAC.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ba4b62125d1619e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "e87409d47f99032f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e803bf596a1f688b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8f28cc84fdf53b0f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 489
+  },
+  "right": {
+    "id": "a99906d32b8800ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4eaab815d455059",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a54862ddd498152",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "RBAC.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "af96cf191340f4f5",
+  "lastOpenFiles": [
+    "RBAC.md",
+    "Budgets and cost management.md",
+    "General.md",
+    "Policies.md",
+    "ARM.md",
+    "Screenshot 2021-06-21 at 3.16.43 PM.png",
+    "Untitled~9F1BC7BF-327D-4E61-8CBB-225D5733B293.animatedoc/Thumbnail.png",
+    "Untitled.md",
+    "Budgets.md"
+  ]
+}

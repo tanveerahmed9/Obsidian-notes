@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "07ce3a9c4cd13810",
+    "type": "split",
+    "children": [
+      {
+        "id": "1daff0dec19e84d9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Azure pipeline Agents.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "360a70483f6348a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "03aa47bfe88d257e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14df6170bf1dfb92",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cf8ceca912c46d15",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "14e1140fee47d64c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b2c42fb2b5fd817",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eaf11306457d736a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Azure pipeline Agents.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1daff0dec19e84d9",
+  "lastOpenFiles": [
+    "Azure pipeline Agents.md",
+    "Untitled.md"
+  ]
+}

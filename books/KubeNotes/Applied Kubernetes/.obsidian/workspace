@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "0230ac787000ec43",
+    "type": "split",
+    "children": [
+      {
+        "id": "c10f26924d6ee81d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "health of probes (liveness,readiness and startup probe).md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f957bb47745fdbe3",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb132052ea922061",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52f45739a20e2f2e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cfd3251210ce639e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 549
+  },
+  "right": {
+    "id": "65536d1487e9e2a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "c54ceca211db7e2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eee1ab3de97d1e0c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "health of probes (liveness,readiness and startup probe).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c10f26924d6ee81d",
+  "lastOpenFiles": [
+    "health of probes (liveness,readiness and startup probe).md",
+    "Untitled.md",
+    "lablels.md",
+    "Common Troubleshooting scenarios.md",
+    "Helm Chart.md",
+    "kubeFed.md",
+    "stans robot shop.md",
+    "Screenshot 2021-05-10 at 8.15.34 PM.png",
+    "leader-election.md",
+    "Volume.md"
+  ]
+}

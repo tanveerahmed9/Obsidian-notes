@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "5a7e0a987edd9a56",
+    "type": "split",
+    "children": [
+      {
+        "id": "3af97037f85da907",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c4c92a91cbd0c4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1018b75f0a336d8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2e2ec29e1bf1c37",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "32b7d74884f13d99",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b044d10b0420b496",
+    "type": "split",
+    "children": [
+      {
+        "id": "310fe04bcba9c45f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9d6a0c38edc3eb1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3af97037f85da907",
+  "lastOpenFiles": [
+    "MS-Azure Well Architected framework.md",
+    "IAC CAFWAF best practices.md",
+    "Governance and Reliability.md",
+    "Deploying the landing zone.md",
+    "Building Landing Zone Template.md",
+    "Designing a Landing Zone.md",
+    "resource/Screenshot 2021-05-02 at 11.47.50 AM.png",
+    "Compute.png",
+    "Screenshot 2021-05-02 at 11.47.50 AM.png",
+    "Screenshot 2021-05-02 at 11.28.14 AM.png"
+  ]
+}
