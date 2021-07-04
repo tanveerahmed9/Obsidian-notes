@@ -14,11 +14,30 @@ Even for complex deployment you can use Nested traffic manager profiles (more on
 
 below is the pictorial representaion of how the traffic manager in our demo would look like.
 
+[[Azure Traffic Manager]]
+
+For our demo we would be using a web app which will be deployed in two regions , one will server as a primary region and the second will be deployed to a failover region.
+
+Follow below link to deploy web app.
+
+LINK HERE PLEASE
 
 
+Once we have deployed our web app we need to create the traffic manager profile:-
+
+1. Click on Create a resource -> Traffic Manager Profile and then click create
+2. Fill the fields as per following image 
+    	![[traffic manager profile.png]]
+   Note:- we have selected routing method as Priority , following options are available in case of roting method:-
+   
+        Performance
+		Weighted
+		Geographic
+		Multivalue
+		Subnet
 
 
-
+We will discuss about all those and what to be used what scenarios in the later section , however for now we are taking up the routing method based on priority.
 
 
 
