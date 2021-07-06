@@ -39,6 +39,32 @@ Once we have deployed our web app we need to create the traffic manager profile:
 
 We will discuss about all those and what to be used what scenarios in the later section , however for now we are taking up the routing method based on priority.
 
+Once we have the traffic manager policy we can now add endpoints to which the client requests will be directed based on priority (since we selected priority as our routing method) .
+
+To add the endpoints follow the below steps:-
+
+1. Open the traffic manager profile you had created in the previous step.
+2. Go to Endpoints tab
+3. Click on create , fill the fields as per below:-
+   ![[Add endpoint.png]]
+    
+Note:- We have selected the first deployment which we performed at East US region , the priority selected is 1 which means all the traffic will be redirected to this deployment , unless we have a failure in the region. In case of failure the traffic will be sent to the priority 2 region and when priority 2 region does down the traffic is then redirected to the priority 3 region and so on.
+
+To add the endpoint for priority 2 region we add the endpoint from step 1-3 with values for priority resource to be 2 and webappaatWestUS2 respectively.
+
+
+To see this is action , browse to the DNS name of the traffic manager profile , and you woll notice that it takes us to the default website we craeted, Now disable the East US region endpointy in the traffic manager profile (the priority 1 endpoint) and then again browse to the DNS name of your traffic manager profile you will see that you are still able to browse to the website , although this time the traffic was redirected to the secondary region but an an end user you would not be able to see that. 
+
+We can add more no of priorities based on the number of regions the app is deployed to.
+
+**I will also cover this on how we can create the same infratsruture through terraform in CI/CD for folks who have basic hands on in terraform  ** 
+
+
+**Nested Traffic Manager profiles**
+
+The example we saw had the routing method based on priority , however there are several scenarios where we need to combine one or more routing methods available at our disposal .
+
+Below are some examples of nested traffic profiler, 
 
 
 
