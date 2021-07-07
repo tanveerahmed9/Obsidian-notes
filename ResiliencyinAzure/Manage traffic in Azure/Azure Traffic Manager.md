@@ -1,12 +1,12 @@
-Hello Everyone , Today we are going to look into the resiliency options in Azure which helps in distributing traffic generated from a client the app . If an application is used throughout the globe , deploying the app in just a single location can lead to performance degradation as the user (cleint requests) can be initiated from anywhere around the world , if the distance between the app location and the user is too far it affects the performance of the application with respect to latency. There are other several factors to be looked upon when we startegies the deployment of an application which we will talk about in this post. 
+Hello Everyone , Today we are going to look into the resiliency options in Azure , In this post we are looking into Azure Traffic Manager in detail , which helps in distributing traffic generated from a client to the service (Endpoint) . If an application is used throughout the globe , deploying the app in just a single location can lead to performance degradation as the user (cleint requests) can be initiated from anywhere around the world , if the distance between the app location and the user is too far it affects the performance of the application with respect to latency. There are other several factors to be looked upon when we startegies the deployment of an application which we will talk about in this post. 
 
 
 **Azure Traffic Manager**
 
-It is a DNS based tarffic load balancer which helps to disttribute traffic across regions .
+It is a DNS based tarffic load balancer which helps to disttribute traffic from a client to a rule based identified endpoint .
 It uses tarrfic routing (more on this ahead) to direct requests to the appropriate service endpoints.
 
-There are several benefits of Azure traffic mamnager as it helps in applications availability , increase performance of the application by directing traffic to the nearest endpoint or endpoint with lowest latency.
+There are several benefits of Azure traffic manager which includes applications availability , increase performance of the application , Geo-Fencing.
 
 Even for complex deployment you can use Nested traffic manager profiles (more on this later).
 
@@ -37,7 +37,7 @@ Once we have deployed our web app we need to create the traffic manager profile:
 		Subnet
 
 
-We will discuss about all those and what to be used what scenarios in the later section , however for now we are taking up the routing method based on priority.
+We will discuss about Performance,Weighted and Geographic routing method in more details in a little bit , however lets demonstrate how can one create a traffic manager profile in Azure by selecting priority based routing.
 
 Once we have the traffic manager policy we can now add endpoints to which the client requests will be directed based on priority (since we selected priority as our routing method) .
 
@@ -60,11 +60,6 @@ We can add more no of priorities based on the number of regions the app is deplo
 **I will also cover this on how we can create the same infratsruture through terraform in CI/CD for folks who have basic hands on in terraform  ** 
 
 
-**Nested Traffic Manager profiles**
-
-The example we saw had the routing method based on priority , however there are several scenarios where we need to combine one or more routing methods available at our disposal .
-
-Below are some examples of nested traffic profiler, 
 
 
 

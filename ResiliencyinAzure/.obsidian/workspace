@@ -90,13 +90,13 @@
   "lastOpenFiles": [
     "Manage traffic in Azure/Azure Traffic Manager.md",
     "Manage traffic in Azure/Deploy Web App in Azure.md",
-    "Availability Sets.md",
-    "General.md",
-    "replication.md",
-    "Screenshot 2021-07-04 at 11.06.22 AM.png",
-    "Excalidraw/moonflakes.excalidraw",
-    "Excalidraw/traffic manager demonstration.excalidraw",
-    "Excalidraw/Update domain.excalidraw",
-    "Excalidraw/moonflakes.png"
+    "Manage traffic in Azure/Introduction.md",
+    "Manage traffic in Azure/Types of routing methods explained.md",
+    "Excalidraw/Nested Traffic Controller (Geographic + performance based).png",
+    "Excalidraw/Nested Traffic Controller (Geographic + performance based).excalidraw",
+    "Excalidraw/Performance based Routing.png",
+    "Excalidraw/Weight based traffic routing.png",
+    "Excalidraw/Drawing 2021-07-07 12.08.41.excalidraw",
+    "Excalidraw/Geographic based routing.png"
   ]
 }
