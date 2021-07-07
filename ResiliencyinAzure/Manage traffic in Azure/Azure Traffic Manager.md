@@ -1,4 +1,6 @@
-Hello Everyone , Today we are going to look into the resiliency options in Azure , In this post we are looking into Azure Traffic Manager in detail , which helps in distributing traffic generated from a client to the service (Endpoint) . If an application is used throughout the globe , deploying the app in just a single location can lead to performance degradation as the user (cleint requests) can be initiated from anywhere around the world , if the distance between the app location and the user is too far it affects the performance of the application with respect to latency. There are other several factors to be looked upon when we startegies the deployment of an application which we will talk about in this post. 
+Hello Everyone , Today we are going to look into the resiliency options in Azure , In this post we are looking into Azure Traffic Manager which helps in distributing traffic generated from a client to the service (Endpoint) . 
+
+If an application is used throughout the globe , deploying the app in just a single location can lead to performance degradation as the user (cleint requests) can be initiated from anywhere around the world , if the distance between the app location and the user is too far it affects the performance of the application with respect to latency. There are other several factors to be looked upon when we startegies the deployment of an application which we will talk about in this post. 
 
 
 **Azure Traffic Manager**
@@ -6,13 +8,13 @@ Hello Everyone , Today we are going to look into the resiliency options in Azure
 It is a DNS based tarffic load balancer which helps to disttribute traffic from a client to a rule based identified endpoint .
 It uses tarrfic routing (more on this ahead) to direct requests to the appropriate service endpoints.
 
-There are several benefits of Azure traffic manager which includes applications availability , increase performance of the application , Geo-Fencing.
+There are several benefits of Azure traffic manager which includes applications availability , increase performance of the application , Geo-Fencing etc.
 
 Even for complex deployment you can use Nested traffic manager profiles (more on this later).
 
 **Steps to create traffic manager profile:-**
 
-below is the pictorial representaion of how the traffic manager in our demo would look like.
+Below is the pictorial representaion of how the traffic manager in our demo would look like.
 
 [[Azure Traffic Manager]]
 
@@ -30,12 +32,14 @@ Once we have deployed our web app we need to create the traffic manager profile:
     	![[traffic manager profile.png]]
    Note:- we have selected routing method as Priority , following options are available in case of roting method:-
    
+   
+        Priority
         Performance
 		Weighted
 		Geographic
 		Multivalue
 		Subnet
-
+        
 
 We will discuss about Performance,Weighted and Geographic routing method in more details in a little bit , however lets demonstrate how can one create a traffic manager profile in Azure by selecting priority based routing.
 
@@ -53,7 +57,7 @@ Note:- We have selected the first deployment which we performed at East US regio
 To add the endpoint for priority 2 region we add the endpoint from step 1-3 with values for priority resource to be 2 and webappaatWestUS2 respectively.
 
 
-To see this is action , browse to the DNS name of the traffic manager profile , and you woll notice that it takes us to the default website we craeted, Now disable the East US region endpointy in the traffic manager profile (the priority 1 endpoint) and then again browse to the DNS name of your traffic manager profile you will see that you are still able to browse to the website , although this time the traffic was redirected to the secondary region but an an end user you would not be able to see that. 
+To see this is action , browse to the DNS name of the traffic manager profile , and you will notice that it takes us to the default website we created, Now disable the East US region endpointt in the traffic manager profile (the priority 1 endpoint) and then again browse to the DNS name of your traffic manager profile you will see that you are still able to browse to the website , although this time the traffic was redirected to the secondary region but an an end user you would not be able to see that. 
 
 We can add more no of priorities based on the number of regions the app is deployed to.
 

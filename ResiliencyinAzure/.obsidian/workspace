@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Manage traffic in Azure/Azure Traffic Manager.md",
+            "file": "Manage traffic in Azure/Introduction.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Manage traffic in Azure/Azure Traffic Manager.md",
+                "file": "Manage traffic in Azure/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "7ca9a8f4a2d6edc4",
   "lastOpenFiles": [
-    "Manage traffic in Azure/Azure Traffic Manager.md",
-    "Manage traffic in Azure/Deploy Web App in Azure.md",
     "Manage traffic in Azure/Introduction.md",
     "Manage traffic in Azure/Types of routing methods explained.md",
-    "Excalidraw/Nested Traffic Controller (Geographic + performance based).png",
-    "Excalidraw/Nested Traffic Controller (Geographic + performance based).excalidraw",
+    "resource/Add endpoint.png",
+    "resource/As pg1.png",
+    "resource/Screenshot 2021-07-04 at 10.42.12 AM.png",
+    "resource/traffic manager profile.png",
+    "Manage traffic in Azure/Azure Traffic Manager.md",
+    "Manage traffic in Azure/Deploy Web App in Azure.md",
     "Excalidraw/Performance based Routing.png",
-    "Excalidraw/Weight based traffic routing.png",
-    "Excalidraw/Drawing 2021-07-07 12.08.41.excalidraw",
-    "Excalidraw/Geographic based routing.png"
+    "Excalidraw/Nested Traffic Controller (Geographic + performance based).png"
   ]
 }
