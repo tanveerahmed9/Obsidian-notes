@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "7ca9a8f4a2d6edc4",
+        "id": "7476d706a554a28c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Manage traffic in Azure/Introduction.md",
-            "mode": "source"
+            "file": "Azure Application gateway/Introduction.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Manage traffic in Azure/Introduction.md",
+                "file": "Azure Application gateway/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7ca9a8f4a2d6edc4",
+  "active": "7476d706a554a28c",
   "lastOpenFiles": [
-    "Manage traffic in Azure/Introduction.md",
-    "Manage traffic in Azure/Types of routing methods explained.md",
-    "resource/Add endpoint.png",
-    "resource/As pg1.png",
-    "resource/Screenshot 2021-07-04 at 10.42.12 AM.png",
-    "resource/traffic manager profile.png",
-    "Manage traffic in Azure/Azure Traffic Manager.md",
-    "Manage traffic in Azure/Deploy Web App in Azure.md",
-    "Excalidraw/Performance based Routing.png",
-    "Excalidraw/Nested Traffic Controller (Geographic + performance based).png"
+    "Azure Application gateway/Introduction.md",
+    "Azure Application gateway/Components of Application Gateway.md",
+    "Excalidraw/Application Gateway/Application Gateway Components.png",
+    "Excalidraw/Application Gateway/App gateway overview.png",
+    "Excalidraw/Application Gateway Components.png",
+    "Excalidraw/Application Gateway Components.excalidraw",
+    "Excalidraw/Drawing 2021-07-09 11.15.44.excalidraw",
+    "Excalidraw/Traffic manager/Weight based traffic routing.png",
+    "Excalidraw/Traffic manager/traffic manager priority.png",
+    "Excalidraw/Traffic manager/Nested Traffic Controller (Geographic + performance based).png"
   ]
 }
