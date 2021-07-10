@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Azure Application gateway/Introduction.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -90,13 +90,13 @@
   "lastOpenFiles": [
     "Azure Application gateway/Introduction.md",
     "Azure Application gateway/Components of Application Gateway.md",
-    "Excalidraw/Application Gateway/Application Gateway Components.png",
-    "Excalidraw/Application Gateway/App gateway overview.png",
-    "Excalidraw/Application Gateway Components.png",
-    "Excalidraw/Application Gateway Components.excalidraw",
-    "Excalidraw/Drawing 2021-07-09 11.15.44.excalidraw",
-    "Excalidraw/Traffic manager/Weight based traffic routing.png",
-    "Excalidraw/Traffic manager/traffic manager priority.png",
-    "Excalidraw/Traffic manager/Nested Traffic Controller (Geographic + performance based).png"
+    "resource/Vm creation.png",
+    "resource/traffic manager profile.png",
+    "resource/Screenshot 2021-07-04 at 10.42.12 AM.png",
+    "resource/As pg1.png",
+    "resource/Add endpoint.png",
+    "resource/Application Gateway/Managed WAF rules.png",
+    "resource/Application Gateway/HTTP setting.png",
+    "resource/Application Gateway/Basic tab.png"
   ]
 }
