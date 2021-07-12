@@ -7,9 +7,10 @@
         "id": "7476d706a554a28c",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Excalidraw/Drawing 2021-07-10 14.04.35.excalidraw"
+            "file": "Azure Application gateway/Introduction.md",
+            "mode": "source"
           }
         }
       }
@@ -67,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2021-07-10 14.04.35.excalidraw",
+                "file": "Azure Application gateway/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +88,15 @@
   },
   "active": "7476d706a554a28c",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2021-07-10 14.04.35.excalidraw",
     "Azure Application gateway/Introduction.md",
     "Azure Application gateway/Components of Application Gateway.md",
+    "Manage traffic in Azure/Azure Traffic Manager.md",
+    "Manage traffic in Azure/Types of routing methods explained.md",
+    "Excalidraw/Drawing 2021-07-10 14.04.35.excalidraw",
     "resource/Vm creation.png",
     "resource/traffic manager profile.png",
     "resource/Screenshot 2021-07-04 at 10.42.12 AM.png",
     "resource/As pg1.png",
-    "resource/Add endpoint.png",
-    "resource/Application Gateway/Managed WAF rules.png",
-    "resource/Application Gateway/HTTP setting.png"
+    "resource/Add endpoint.png"
   ]
 }
