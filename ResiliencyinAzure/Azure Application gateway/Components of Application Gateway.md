@@ -1,3 +1,0 @@
-**Components of Application Gateway**
-
-

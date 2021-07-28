@@ -1,0 +1,76 @@
+{
+  "main": {
+    "id": "b331da605e7101e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9099cd4560239d9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Kubernetes Agenda.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1842675cf83f62f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "600f595a02b70495",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "629bb7befa5cee83",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "54faf1879360b34b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a6253af3fdce83f8",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b9099cd4560239d9",
+  "lastOpenFiles": [
+    "Kubernetes Agenda.md",
+    "Introduction.md",
+    "Untitled.md",
+    "202107141615.md",
+    "PARA method.md",
+    "Recording 20210714161536.webm",
+    "Recording 20210714161430.webm",
+    "Recording 20210714161421.webm"
+  ]
+}

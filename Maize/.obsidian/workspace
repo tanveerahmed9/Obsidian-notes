@@ -1,29 +1,31 @@
 {
   "main": {
-    "id": "c9abaa8455b99133",
+    "id": "bd3cee6bfbba1d54",
     "type": "split",
     "children": [
       {
-        "id": "acd628c809eff34f",
+        "id": "885a14865f5be538",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "image",
+          "state": {
+            "file": "Excalidraw/Drawing 2021-07-21 20.06.20.excalidraw.png"
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "750abeca4a1b0e7c",
+    "id": "9908e2f91f31d8be",
     "type": "split",
     "children": [
       {
-        "id": "c196422a42cec055",
+        "id": "00da570c2aaa9fb6",
         "type": "tabs",
         "children": [
           {
-            "id": "6d66913f3a0a95d8",
+            "id": "8c90ab7593ed2fff",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,7 +33,7 @@
             }
           },
           {
-            "id": "defe8f3374877b39",
+            "id": "e834ef2c24f335bf",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -52,19 +54,20 @@
     "width": 300
   },
   "right": {
-    "id": "7131b83850f83597",
+    "id": "f78430f3a8e82bba",
     "type": "split",
     "children": [
       {
-        "id": "f2cc33726599f105",
+        "id": "3ff267044450fd2d",
         "type": "tabs",
         "children": [
           {
-            "id": "be0259e0c475f03a",
+            "id": "2282f048cee3a399",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Drawing 2021-07-21 20.06.20.excalidraw.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,17 +85,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "acd628c809eff34f",
+  "active": "885a14865f5be538",
   "lastOpenFiles": [
-    "Manage traffic in Azure/Types of routing methods explained.md",
-    "Untitled.md",
-    "General.md",
-    "Availability Sets.md",
-    "Azure Application gateway/Introduction.md",
-    "Manage traffic in Azure/Introduction.md",
-    "Manage traffic in Azure/Azure Traffic Manager.md",
-    "Excalidraw/Application Gateway/App gateway overview.png",
-    "Excalidraw/Application Gateway/AGIC.png",
-    "Excalidraw/Application Gateway/Application Gateway Components.png"
+    "Excalidraw/Drawing 2021-07-21 20.06.20.excalidraw.png",
+    "Excalidraw/Drawing 2021-07-21 20.06.20.excalidraw.md",
+    "Untitled.md"
   ]
 }
