@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "K8s/Agenda.md",
+            "file": "Int Des/Tv wall.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "K8s/Agenda.md",
+                "file": "Int Des/Tv wall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "88c45c47a2daa884",
   "lastOpenFiles": [
-    "K8s/Agenda.md",
+    "Untitled.md",
+    "Int Des/Console Table.md",
+    "Int Des/Lights hanging.md",
     "K8s/Admission Controller.md",
-    "K8s/Deployment strategy.md",
-    "K8s/Introduction.md",
-    "K8s/labels and selectors and annotation.md",
-    "K8s/Service.md",
-    "K8s/Stateful sets.md",
     "K8s/YAML.md",
-    "K8s/Persisten Storage.md",
-    "Excalidraw/Drawing 2021-07-26 13.06.34.excalidraw.md"
+    "K8s/Advanced Scheduling.md",
+    "K8s/thoughtless.md",
+    "K8s/Stateful sets.md",
+    "K8s/Service.md",
+    "K8s/Persisten Storage.md"
   ]
 }
