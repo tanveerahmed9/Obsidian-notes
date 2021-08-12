@@ -32,7 +32,18 @@ Declarative Policy Language (Rego)
   GateKeeper: Core Features :-
   
   . Validating admission control
-      . 
+      
+	  
+	  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
   
   
   

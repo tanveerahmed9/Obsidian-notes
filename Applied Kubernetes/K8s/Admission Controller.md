@@ -55,7 +55,43 @@ can be used across the stack
 Declarative policy language (Rego)
 
 
-Kubernetes policy controller
+NamespaceLifecycle AC -> For handling Namespace related policies, for example when a Namespace is being terminted and the request which comes to kubernetes API is trying to create a pod in that particular namespace , it blocks the requests and denied.
+ 
+ 
+ 
+ Use cases for Mutating and validating webhooks:-
+ 
+ Allow pulling images only from specific registries
+ Replica count emforcement
+ Lagel validation
+ Inject Environment setting
+ SideCar Injection
+ Adding Resource Limits :- This could be helpful in maintaining the overall budget of the project. Make that use case available in the article
+ 
+ 
+ Steps to create Admission Controllers:-
+ 
+ 1. Create a Kubernetes Cluster
+ 2. Create a TLS certs.
+ 3. Create Webhook Configuration
+
+
+How Source Code would look Like:-
+ 
+ 1. DockerFile - 
+    
+	FROM golang:1.15-alpine as dev-env
+	WORKDIR /app
+	
+2. 
+
+
+
+
+ 
+ 
+ 
+ 
 
 
 
