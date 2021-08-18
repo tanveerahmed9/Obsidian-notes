@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "K8s/Admission Controller.md",
+            "file": "GO/Data Types.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "K8s/Admission Controller.md",
+                "file": "GO/Data Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "88c45c47a2daa884",
   "lastOpenFiles": [
+    "GO/Data Types.md",
+    "GO/Internals.md",
+    "Untitled.md",
     "K8s/Admission Controller.md",
     "K8s/Deployment strategy.md",
     "K8s/Custom Resource definitions (CRD) and Custom Resource (CR).md",
     "K8s/Agenda.md",
     "K8s/Advanced Scheduling.md",
     "K8s/Open Policy Agent.md",
-    "Untitled.md",
-    "Int Des/Console Table.md",
-    "Int Des/stairs.md",
-    "Int Des/Tv wall.md"
+    "Int Des/Console Table.md"
   ]
 }
