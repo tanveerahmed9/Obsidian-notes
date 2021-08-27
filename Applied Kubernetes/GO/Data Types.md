@@ -1,6 +1,6 @@
 // Maps
 
-
+#datatyype  #Go
 Equivalent to Hash table 
 
 **Non-Pointer based**
@@ -18,4 +18,15 @@ iMap["K2"] = 2
 iMap["K3"] = 3
 
 fmt.Println("map value is ", iMap)
+
+
+**Pointers**
+
+*p to declare a pointer variable
+
+&p -> dereferencing the pointer variable
+
+
+
+
 

@@ -22,12 +22,12 @@ func <funcname> (inputs) (outps){
 	
 	
 	
-# arrays
+// arrays
 	
 	<variablename> [Size]String
 
 		
-#slice
+//slice
 		
 		downside of arrays are that we have to provide the size of the array eveytime we declare
 		
@@ -35,14 +35,14 @@ func <funcname> (inputs) (outps){
 		
 	
 		
-		#loops
+		//loops
 		
 		// infinite loop
 		for{
 		}
 		
 		
-		#struct
+		// struct
 		
 		type (
 		<structname> struct{
@@ -81,3 +81,6 @@ func <funcname> (inputs) (outps){
 			// handling 
 			
 			}
+			
+			
+			

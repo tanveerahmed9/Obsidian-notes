@@ -1,32 +1,29 @@
 {
   "main": {
-    "id": "56249b95a1477883",
+    "id": "94d16e013ab38e91",
     "type": "split",
     "children": [
       {
-        "id": "ea83fda769110c51",
+        "id": "78c1365a0de92b99",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Others/DataView/dataview examples.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "47005302779d24bc",
+    "id": "f7343d443e0a9c10",
     "type": "split",
     "children": [
       {
-        "id": "e65ea3d42e975b11",
+        "id": "02ef4ac88a0e58d8",
         "type": "tabs",
         "children": [
           {
-            "id": "ca16dc1c5547cc50",
+            "id": "46f97c4b445fbfab",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,7 +31,7 @@
             }
           },
           {
-            "id": "d2085aa86bb47716",
+            "id": "c3ff8e1df42a0c8a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -55,22 +52,21 @@
     "width": 300
   },
   "right": {
-    "id": "b8cf10de74f509d3",
+    "id": "1948b89759be88f7",
     "type": "split",
     "children": [
       {
-        "id": "4cf6676af99cb58e",
+        "id": "e09ada20b567e5bd",
         "type": "tabs",
         "children": [
           {
-            "id": "23e031d202d83363",
+            "id": "57750742bb34cebb",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Others/DataView/dataview examples.md",
-                "collapseAll": true,
-                "extraContext": true,
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -78,37 +74,14 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "89ff07aaa460e445",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "ea83fda769110c51",
-  "lastOpenFiles": [
-    "Others/DataView/dataview examples.md",
-    "Pennsylvania chemicals -- Polymer/Development Weekly Report.md",
-    "K8s/Admission Controller.md",
-    "K8s/Custom Resource definitions (CRD) and Custom Resource (CR).md",
-    "K8s/Deployment strategy.md",
-    "K8s/Introduction.md",
-    "K8s/Kubeadm.md",
-    "Others/DataView/DataView Beginners Guide.md",
-    "GO/Data Types.md",
-    "GO/Internals.md"
-  ]
+  "active": "78c1365a0de92b99",
+  "lastOpenFiles": []
 }
