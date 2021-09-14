@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ea83fda769110c51",
+        "id": "b54561fd72225470",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Others/DataView/dataview examples.md",
+            "file": "Azure Devops/Azure Devops WIth SAP CF.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Others/DataView/dataview examples.md",
+                "file": "Azure Devops/Azure Devops WIth SAP CF.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -98,17 +98,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ea83fda769110c51",
+  "active": "b54561fd72225470",
   "lastOpenFiles": [
-    "Others/DataView/dataview examples.md",
-    "Pennsylvania chemicals -- Polymer/Development Weekly Report.md",
-    "K8s/Admission Controller.md",
-    "K8s/Custom Resource definitions (CRD) and Custom Resource (CR).md",
-    "K8s/Deployment strategy.md",
-    "K8s/Introduction.md",
-    "K8s/Kubeadm.md",
-    "Others/DataView/DataView Beginners Guide.md",
-    "GO/Data Types.md",
-    "GO/Internals.md"
+    "Azure Devops/Azure Devops WIth SAP CF.md",
+    "Azure Devops/BurnDown chart , Velocity etc.md",
+    "Azure Devops/Azure devops Cretae burndown and Burnup charts.md",
+    "Excalidraw/Drawing 2021-09-02 12.41.14.excalidraw.md",
+    "Excalidraw/Control Plane Architecture.png",
+    "Excalidraw/admission Controller.md",
+    "Energy Components/Meeting 24-08-2021.md",
+    "Energy Components/Issue for 26th August.md",
+    "Energy Components/EC13 upgrade - Application gateway alternative.md",
+    "Energy Components/EC13 image scan report.md"
   ]
 }

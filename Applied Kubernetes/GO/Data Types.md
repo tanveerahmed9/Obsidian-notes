@@ -1,5 +1,7 @@
 // Maps
 
+#go #golang #datatyype 
+
 #datatyype  #Go
 Equivalent to Hash table 
 

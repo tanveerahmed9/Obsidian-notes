@@ -7,8 +7,11 @@
         "id": "acd628c809eff34f",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Manage traffic in Azure/Introduction.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Manage traffic in Azure/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +88,15 @@
   },
   "active": "acd628c809eff34f",
   "lastOpenFiles": [
-    "Manage traffic in Azure/Types of routing methods explained.md",
-    "Untitled.md",
-    "General.md",
-    "Availability Sets.md",
-    "Azure Application gateway/Introduction.md",
     "Manage traffic in Azure/Introduction.md",
+    "Manage traffic in Azure/Types of routing methods explained.md",
     "Manage traffic in Azure/Azure Traffic Manager.md",
-    "Excalidraw/Application Gateway/App gateway overview.png",
-    "Excalidraw/Application Gateway/AGIC.png",
-    "Excalidraw/Application Gateway/Application Gateway Components.png"
+    "General/replication.md",
+    "General/General.md",
+    "General/Fault Domain.excalidraw.md",
+    "General/Availability Sets.md",
+    "Excalidraw/Traffic manager/traffic manager priority.png",
+    "Excalidraw/Traffic manager/Priority Based routing.png",
+    "Excalidraw/Traffic manager/Nested Traffic Controller (Geographic + performance based).png"
   ]
 }

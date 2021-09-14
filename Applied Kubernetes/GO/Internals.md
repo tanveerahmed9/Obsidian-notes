@@ -1,4 +1,4 @@
-#Go
+#Go #internals
 
 
 // **runtime** package 

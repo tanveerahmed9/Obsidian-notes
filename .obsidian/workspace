@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "88523e72360431a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2830c83c174d8ab",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e66b87365a19ba12",
+    "type": "split",
+    "children": [
+      {
+        "id": "84f16edfb1bb0ef3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b463f41bcdbfabeb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5db98a31856ed4b4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 295
+  },
+  "right": {
+    "id": "23f2019d439995ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "3197924be9f5b31d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1207e245a8c96120",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f2830c83c174d8ab",
+  "lastOpenFiles": [
+    "Excalidraw/Public IP demonstration.md",
+    "AzureGovernance/RBAC.md",
+    "AzureGovernance/Policies.md",
+    "AzureGovernance/General.md",
+    "AzureGovernance/Budgets and cost management.md",
+    "AzureGovernance/Blueprints.md",
+    "AzureGovernance/ARM.md",
+    "AzureGovernance/Untitled~9F1BC7BF-327D-4E61-8CBB-225D5733B293.animatedoc/Thumbnail.png",
+    "AZ 700/Introduction.md",
+    "Excalidraw/Drawing 2021-09-14 18.13.02.excalidraw.md"
+  ]
+}

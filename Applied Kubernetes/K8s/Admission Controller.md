@@ -2,10 +2,12 @@
 ---
 topic : admission controller
 authors : Tanveer Ahmed
-Studied:
-- 15
-- 10
-- 20
+tags:
+- Admission Controllers
+- K8s
+- Kubernetes
+- securityinK8s
+- security
 ---
 
 
@@ -77,7 +79,7 @@ NamespaceLifecycle AC -> For handling Namespace related policies, for example wh
  
  Allow pulling images only from specific registries
  Replica count emforcement
- Lagel validation
+ label validation against company standards
  Inject Environment setting
  SideCar Injection
  Adding Resource Limits :- This could be helpful in maintaining the overall budget of the project. Make that use case available in the article

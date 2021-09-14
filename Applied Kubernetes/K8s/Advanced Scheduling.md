@@ -12,3 +12,13 @@ Topics ideas :- Managing pod scheduling in K8s
 
 
 
+
+
+
+
+Pod Scheduling Process
+
+
+
+
+

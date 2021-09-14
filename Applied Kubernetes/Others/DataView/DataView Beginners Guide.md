@@ -16,3 +16,6 @@ https://github.com/blacksmithgu/obsidian-dataview
 
 Add Metadata to your notes:- refer note MetadatEx 
 
+
+
+
